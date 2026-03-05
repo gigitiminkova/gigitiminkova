@@ -1,29 +1,39 @@
-# Hi 👋, I'm HADJER
+<div align="center">
 
-**Développeuse Web & Graphic Designer passionnée par les interfaces modernes et les expériences 3D.**  
-Spécialisée en Next.js, React, Three.js, GSAP & ERPNext.
+# Hi 👋, I'm Hadjer Missaoui
 
-- 📫 How to reach me: **anastasia29kaprova@gmail.com**
+### Web Developer & Graphic Designer — Oran, Algeria 🇩🇿
 
----
+*Passionate about modern interfaces, 3D experiences & scalable digital solutions.*
 
-### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ton-profil)
-
----
-
-### Languages and Tools:
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ton-profil)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=vercel&logoColor=white)](https://hexaflow.dz)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:missaoui.hadjer@kbdev.co)
 
 ---
 
-### GitHub Stats:
-![Hadjer's GitHub stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight)
+### 🛠️ Languages & Tools
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,threejs,gsap,framer&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,python,prisma,postgres,figma,git,vscode&theme=dark" />
+
+---
+
+### 📊 GitHub Stats
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=gigitiminkova&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gigitiminkova&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=gigitiminkova&theme=tokyonight-duo&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
+---
+
+### 🚀 Currently Building
+
+- 🎓 **LMP** — Learning Management Platform (Next.js 15 + AI)
+- 🏢 **Hexaflow** — Digital agency @ Oran
+
+</div>
